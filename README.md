@@ -1,2 +1,2 @@
 # ecommerce_empresa_x
-Esse é mais um repositório do curdo Hora de Codar.
+Esse é mais um repositório do curso Hora de Codar do Mattheus Battisti
