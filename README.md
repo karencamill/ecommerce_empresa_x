@@ -60,3 +60,9 @@ public class Main {
     }
 }
 ```
+
+### Listas de tarefas a fazer: 
+
+- [x] Área de membros
+- [ ] Integração com outros pagamentos
+- [x] Sistema de bônus primeira compra
