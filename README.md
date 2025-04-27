@@ -33,5 +33,5 @@ __Melhoria 1__, _Melhoria 2_
 
 #### Imagem externa 
 
-
+![Logo Javinha](https://pt.wikipedia.org/wiki/Java_(linguagem_de_programa%C3%A7%C3%A3o)#/media/Ficheiro:Java_programming_language_logo.svg)
 
