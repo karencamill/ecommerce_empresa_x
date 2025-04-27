@@ -33,5 +33,5 @@ __Melhoria 1__, _Melhoria 2_
 
 #### Imagem externa 
 
-![Logo Javinha](https://images.app.goo.gl/RJMfkzUwVJKtb3R79)
+
 
