@@ -1,4 +1,7 @@
-# ecommerce_empresa_x
-Esse é mais um repositório do curso Hora de Codar do Mattheus Battisti.
+# E-commerce empresa X
 
-# Teste
+Vamos criar um ecommerce para empresa x e blablabla
+
+## Funcionalidades:
+
+Checkout, Tela de Produto, Catálogo, Home com Banner 
