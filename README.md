@@ -43,7 +43,5 @@ __Melhoria 1__, _Melhoria 2_
 
 Contribuidor Principal: https://github.com/karencamill
 
-
-
 [![Logo do Java](img/java-original.svg)](https://github.com/karencamill)
 
