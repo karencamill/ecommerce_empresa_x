@@ -41,3 +41,5 @@ __Melhoria 1__, _Melhoria 2_
 
 [https://www.youtube.com](https://www.youtube.com)
 
+Contribuidor Principal: https://github.com/karencamill
+
